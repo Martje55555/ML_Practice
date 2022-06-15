@@ -5,3 +5,9 @@
  
  * [Binary](https://github.com/Martje55555/ML_Practice/tree/main/Decision_Tree/binary_examples)
  * [Multi-Class](https://github.com/Martje55555/ML_Practice/tree/main/Decision_Tree/multiclass_examples)
+
+### Datasets Used
+* [Iris Flower Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+* [Heart Attack Analysis](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?datasetId=1226038&searchQuery=decision+tree)
+* [Dropout Academic Success](https://www.kaggle.com/datasets/ankanhore545/dropout-or-academic-success)
+* [Breast Cancer Wisonsin Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
